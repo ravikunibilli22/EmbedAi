@@ -1,0 +1,13 @@
+.list-item{
+    height: 100px;
+    width: 100px;
+}
+.featured{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.image{
+    height: 60px;
+    width: 60px;
+}

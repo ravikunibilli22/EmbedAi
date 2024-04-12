@@ -1,0 +1,20 @@
+.for-you{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.list-item{
+    height: 80px;
+    width: 60px;
+    background-color: #ff9999;
+}
+.images{
+    height: 50px;
+    width: 50px;
+}
+.heading{
+    font-size: medium;
+}
+.head-for{
+    padding-left: 40px;
+}

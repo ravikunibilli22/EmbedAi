@@ -1,0 +1,13 @@
+.try-these{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.list-items{
+    height: 90px;
+    width: 80px;
+}
+.images{
+    height: 50px;
+    width: 50px;
+}
